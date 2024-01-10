@@ -7,7 +7,7 @@ from IPython.display import Image, display
 import time
 import pandas as pd
 
-OPENAI_KEY="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" 
+OPENAI_KEY="input_your_key_here" 
 
 
 
